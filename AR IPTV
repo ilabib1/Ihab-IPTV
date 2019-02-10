@@ -1,19 +1,640 @@
 #EXTM3U
-#EXTINF:-1,USA: HGTV
-http://tv24serwis2.eu:8000/45879541/stalker/521
-#EXTINF:-1,USA: FOX SPORTS 1
-http://tv24serwis2.eu:8000/45879541/stalker/526
-#EXTINF:-1,USA: FOOD TV HD
-http://tv24serwis2.eu:8000/45879541/stalker/522
-#EXTINF:-1,USA: DISCOVERY SHOWCASE HD
-http://tv24serwis2.eu:8000/45879541/stalker/527
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-http://tv24serwis2.eu:8000/45879541/stalker/528
-#EXTINF:-1,USA: DISCOVERY ID XTRA HD
-http://tv24serwis2.eu:8000/45879541/stalker/529
-#EXTINF:-1,USA: CBS NEWS HD
-http://tv24serwis2.eu:8000/45879541/stalker/525
-#EXTINF:-1,USA: CBS HD
-http://tv24serwis2.eu:8000/45879541/stalker/524
-#EXTINF:-1,USA: CBC HD
-http://tv24serwis2.eu:8000/45879541/stalker/523
+#EXTINF:-1,|AR| BEIN MOVIES 1
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3227.m3u8
+#EXTINF:-1,|AR| BEIN MOVIES 2
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3228.m3u8
+#EXTINF:-1,|AR| BEIN MOVIES 3
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10402.m3u8
+#EXTINF:-1,|AR| BEIN MOVIES 4
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10403.m3u8
+#EXTINF:-1,|AR| AL KASS ONE
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13577.m3u8
+#EXTINF:-1,|AR| AL KASS TWO
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13578.m3u8
+#EXTINF:-1,|AR| AL KASS THREE
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13579.m3u8
+#EXTINF:-1,|AR| AL KASS FOUR
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13580.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/2826.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/2827.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 3
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/2828.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/2829.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/2830.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 6
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/2831.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 7
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/2832.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 8
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/2833.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 9
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/2834.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 10
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/2835.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 11 UK
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/9817.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 12 UK
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/9818.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 13 UK
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/9819.m3u8
+#EXTINF:-1,•●★----|AR| ISLAMIQUE |AR|-----★●•
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14303.m3u8
+#EXTINF:-1,|AR| AHL AL QURAN
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14026.m3u8
+#EXTINF:-1,|AR| AL MAAREF
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14016.m3u8
+#EXTINF:-1,|AR| AL MAJD
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14022.m3u8
+#EXTINF:-1,|AR| AL MAJD HADITH
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14024.m3u8
+#EXTINF:-1,|AR| AL MAJD HOLY QURAN
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13710.m3u8
+#EXTINF:-1,|AR| AL MAJD ISLAMIC SCINCE
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14023.m3u8
+#EXTINF:-1,|AR| AL NADA TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14028.m3u8
+#EXTINF:-1,|AR| AL RAHMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14027.m3u8
+#EXTINF:-1,|AR| AL RESALAH
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13708.m3u8
+#EXTINF:-1,|AR| SAFA TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14025.m3u8
+#EXTINF:-1,|AR| TIME QURAN
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14015.m3u8
+#EXTINF:-1,•●★----|AR| JEUNESSE |AR|-----★●•
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14304.m3u8
+#EXTINF:-1,|AR| CARTOON NETWORK ARABIA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13704.m3u8
+#EXTINF:-1,|AR| KARAMEESH
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14020.m3u8
+#EXTINF:-1,|AR| MAJID KIDS
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13728.m3u8
+#EXTINF:-1,|AR| SPACETOON
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14021.m3u8
+#EXTINF:-1,|AR| TOYOR AL JANAH TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13709.m3u8
+#EXTINF:-1,|AR| TOYOR BABY
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13962.m3u8
+#EXTINF:-1,|AR| MBC 3
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3238.m3u8
+#EXTINF:-1,•●★----|AR| ALGERIE |AR|-----★●•
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10385.m3u8
+#EXTINF:-1,|AR| CANAL ATLAS
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10404.m3u8
+#EXTINF:-1,|AR| SAMIRA TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3198.m3u8
+#EXTINF:-1,|AR| EL BILAD
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14018.m3u8
+#EXTINF:-1,|AR| NUMEDIA NEWS
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14019.m3u8
+#EXTINF:-1,|AR| ENNAHAR TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10379.m3u8
+#EXTINF:-1,|AR| ECHOROUK TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10353.m3u8
+#EXTINF:-1,|AR| ECHOROUK BENNA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10354.m3u8
+#EXTINF:-1,|AR| ECHOROUK NEWS
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10355.m3u8
+#EXTINF:-1,|AR| EL HEDDAF TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10366.m3u8
+#EXTINF:-1,|AR| EL BILAD TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10367.m3u8
+#EXTINF:-1,|AR| EL DJAZAIRIA TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10368.m3u8
+#EXTINF:-1,|AR| EL FADJR TV DZ
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10369.m3u8
+#EXTINF:-1,|AR| KBC ALGERIA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14017.m3u8
+#EXTINF:-1,|AR| BAHIA TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10364.m3u8
+#EXTINF:-1,|AR| BEUR TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10372.m3u8
+#EXTINF:-1,|AR| NUMIDIA TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10370.m3u8
+#EXTINF:-1,|AR| NUMIDIA NEWS
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10371.m3u8
+#EXTINF:-1,|AR| DZAIR TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10356.m3u8
+#EXTINF:-1,|AR| DZAIR NEWS
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10358.m3u8
+#EXTINF:-1,|AR| BERBERE TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10382.m3u8
+#EXTINF:-1,|AR| BERBERE JEUNESSE
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10384.m3u8
+#EXTINF:-1,|AR| BERBERE MUSIC
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10383.m3u8
+#EXTINF:-1,•●★----|AR| TUNISIE |AR|-----★●•
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10386.m3u8
+#EXTINF:-1,|AR| TUNISIA NAT 2
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3203.m3u8
+#EXTINF:-1,|AR| EL HIWAR ETTOUNSI
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/4978.m3u8
+#EXTINF:-1,|AR| HANNIBAL
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3199.m3u8
+#EXTINF:-1,|AR| NESSMA TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3200.m3u8
+#EXTINF:-1,|AR| TUNISNA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3204.m3u8
+#EXTINF:-1,|AR| ATTESSIA TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10188.m3u8
+#EXTINF:-1,|AR| M TUNISIA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10374.m3u8
+#EXTINF:-1,|AR| AL JANOUBIA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10376.m3u8
+#EXTINF:-1,|AR| ZAYTOONA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10389.m3u8
+#EXTINF:-1,|AR| AL INSEN
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14014.m3u8
+#EXTINF:-1,•●★-----|AR| EGYPTE |AR|-----★●•
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10388.m3u8
+#EXTINF:-1,|AR| CAIRO CINEMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3205.m3u8
+#EXTINF:-1,|AR| CAIRO DRAMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3206.m3u8
+#EXTINF:-1,|AR| NILE TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10391.m3u8
+#EXTINF:-1,|AR| NILE CULTURE
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10392.m3u8
+#EXTINF:-1,|AR| NILE FAMILY
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10393.m3u8
+#EXTINF:-1,|AR| NILE LIFE
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10395.m3u8
+#EXTINF:-1,|AR| NILE NEWS
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10396.m3u8
+#EXTINF:-1,|AR| NILE CINEMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3208.m3u8
+#EXTINF:-1,|AR| NILE COMEDY
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3209.m3u8
+#EXTINF:-1,|AR| NILE DRAMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3210.m3u8
+#EXTINF:-1,|AR| NILE SPORT
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3211.m3u8
+#EXTINF:-1,|AR| CBC DRAMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13713.m3u8
+#EXTINF:-1,|AR| CBC EXTRA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13712.m3u8
+#EXTINF:-1,|AR| ON LIVE
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14039.m3u8
+#EXTINF:-1,|AR| ON SPORT HD
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14055.m3u8
+#EXTINF:-1,|AR| AL HAYAT 1
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14046.m3u8
+#EXTINF:-1,|AR| AL HAYAT 2
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14045.m3u8
+#EXTINF:-1,|AR| AL HAYAT MUSALSALAT
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14044.m3u8
+#EXTINF:-1,|AR| PANORAMA DRAMA 1
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14036.m3u8
+#EXTINF:-1,|AR| PANORAMA DRAMA 2
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14035.m3u8
+#EXTINF:-1,|AR| PANORAMA FILM
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14038.m3u8
+#EXTINF:-1,|AR| PANORAMA FOOD
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14037.m3u8
+#EXTINF:-1,|AR| AL MEHWAR
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14049.m3u8
+#EXTINF:-1,|AR| AL NAHAR DRAMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14047.m3u8
+#EXTINF:-1,|AR| AL NAHAR ONE
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14048.m3u8
+#EXTINF:-1,|AR| STAR CINEMA 1
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14033.m3u8
+#EXTINF:-1,|AR| STAR CINEMA 2
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14032.m3u8
+#EXTINF:-1,|AR| AL MASRAWEYA AFLAM
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14050.m3u8
+#EXTINF:-1,|AR| CINEMA PRO
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14042.m3u8
+#EXTINF:-1,|AR| CIMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14043.m3u8
+#EXTINF:-1,•●★-----|AR| LIBAN |AR|------★●•
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10399.m3u8
+#EXTINF:-1,|AR| AL JADEED
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13731.m3u8
+#EXTINF:-1,|AR| FUTURE TV
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13730.m3u8
+#EXTINF:-1,|AR| LBC SAT
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13732.m3u8
+#EXTINF:-1,|AR| MTV LEBANON
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13729.m3u8
+#EXTINF:-1,•●★--|AR| A. SAOUDITE |AR|---★●•
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10400.m3u8
+#EXTINF:-1,|AR| ROTANA AFLAM
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10397.m3u8
+#EXTINF:-1,|AR| ROTANA CINEMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3216.m3u8
+#EXTINF:-1,|AR| ROTANA CLASSIC
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3217.m3u8
+#EXTINF:-1,|AR| ROTANA CLIP
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3218.m3u8
+#EXTINF:-1,|AR| ROTANA KHALIJIAH
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3219.m3u8
+#EXTINF:-1,|AR| ROTANA MASRIYA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3220.m3u8
+#EXTINF:-1,|AR| ROTANA MUSIC
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3221.m3u8
+#EXTINF:-1,|AR| SAUDI 24
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14034.m3u8
+#EXTINF:-1,|AR| AL MASDAR
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14041.m3u8
+#EXTINF:-1,|AR| WESAL TV.
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/14031.m3u8
+#EXTINF:-1,•●★-----|AR| E.A.U. |AR|-----★●•
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/10390.m3u8
+#EXTINF:-1,|AR| MBC 1
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3236.m3u8
+#EXTINF:-1,|AR| MBC 2
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3237.m3u8
+#EXTINF:-1,|AR| MBC 4
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3239.m3u8
+#EXTINF:-1,|AR| MBC ACTION
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3240.m3u8
+#EXTINF:-1,|AR| MBC BOLLYWOOD
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3241.m3u8
+#EXTINF:-1,|AR| MBC DRAMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3242.m3u8
+#EXTINF:-1,|AR| MBC MASR
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3243.m3u8
+#EXTINF:-1,|AR| MBC MAX
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/3244.m3u8
+#EXTINF:-1,|AR| ART AFLAM 1
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13727.m3u8
+#EXTINF:-1,|AR| ART AFLAM 2
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13726.m3u8
+#EXTINF:-1,|AR| ART CINEMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13725.m3u8
+#EXTINF:-1,|AR| ART HEKAYAT 1
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13724.m3u8
+#EXTINF:-1,|AR| ART HEKAYAT 2
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13723.m3u8
+#EXTINF:-1,|AR| ABU DHABI DRAMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13719.m3u8
+#EXTINF:-1,|AR| AD AL EMARAT
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13718.m3u8
+#EXTINF:-1,|AR| ABU DHABI SPORTS 2
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13716.m3u8
+#EXTINF:-1,|AR| CBC Abu Dhabi
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13715.m3u8
+#EXTINF:-1,|AR| DREAM 2
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13581.m3u8
+#EXTINF:-1,|AR| DUBAI ONE
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13722.m3u8
+#EXTINF:-1,|AR| NOOR DUBAI
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13720.m3u8
+#EXTINF:-1,|AR| DUBAI ZAMAN
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13721.m3u8
+#EXTINF:-1,|AR| NATIONAL GEOGRAPHIC AD
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13711.m3u8
+#EXTINF:-1,|AR| ZEE CINEMA
+http://premium-play.org:8000/live/saidclt201/XmQat4ju/13702.m3u8
+
+#EXTINF:-1,Bein-Sport-News
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/10.ts
+#EXTINF:-1,BEIN max 1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/210.ts
+#EXTINF:-1,BEIN max 2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/211.ts
+#EXTINF:-1,beIN Sports Low 1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/21.ts
+#EXTINF:-1,beIN Sports Low 2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/22.ts
+#EXTINF:-1,beIN Sports Low 3
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/23.ts
+#EXTINF:-1,beIN Sports Low 4
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/24.ts
+#EXTINF:-1,beIN Sports Low 5
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/25.ts
+#EXTINF:-1,beIN Sports Low 6
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/26.ts
+#EXTINF:-1,beIN Sports Low 7
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/27.ts
+#EXTINF:-1,BEIN SPORTS 1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/11.ts
+#EXTINF:-1,BEIN SPORTS 2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/12.ts
+#EXTINF:-1,BEIN SPORTS 3
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/13.ts
+#EXTINF:-1,BEIN SPORTS 4
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/14.ts
+#EXTINF:-1,BEIN SPORTS 5
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/15.ts
+#EXTINF:-1,BEIN SPORTS 6
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/16.ts
+#EXTINF:-1,BEIN SPORTS 8
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/18.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/17.ts
+#EXTINF:-1,BEIN SPORTS 9
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/19.ts
+#EXTINF:-1,BEIN SPORTS 10
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/20.ts
+#EXTINF:-1,beIN Sports 1 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/1.ts
+#EXTINF:-1,beIN Sports 2 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/2.ts
+#EXTINF:-1,beIN Sports 3 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/3.ts
+#EXTINF:-1,beIN Sports 4 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/4.ts
+#EXTINF:-1,beIN Sports 5 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/5.ts
+#EXTINF:-1,beIN Sports 6 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/6.ts
+#EXTINF:-1,beIN Sports 7 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/7.ts
+#EXTINF:-1,beIN Sports 8 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/8.ts
+#EXTINF:-1,beIN Sports 9 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/9.ts
+#EXTINF:-1,BEIN MOVIES 1 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/28.ts
+#EXTINF:-1,BEIN MOVIES 2 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/29.ts
+#EXTINF:-1,BEIN MOVIES 3 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/30.ts
+#EXTINF:-1,BEIN MOVIES 4 HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/31.ts
+#EXTINF:-1,BEIN Series-HD1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/32.ts
+#EXTINF:-1,BEIN Series-HD2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/33.ts
+#EXTINF:-1,Mbc1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/34.ts
+#EXTINF:-1,Mbc2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/35.ts
+#EXTINF:-1,Mbc3
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/36.ts
+#EXTINF:-1,Mbc4
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/37.ts
+#EXTINF:-1,mbc action
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/38.ts
+#EXTINF:-1,mbc DRAMA
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/40.ts
+#EXTINF:-1,mbc MAX
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/39.ts
+#EXTINF:-1,mbc Bolly
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/42.ts
+#EXTINF:-1,mbc RAVIETY
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/41.ts
+#EXTINF:-1,TF1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/282.ts
+#EXTINF:-1,tf1 series films
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/298.ts
+#EXTINF:-1,france 2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/288.ts
+#EXTINF:-1,france 3
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/289.ts
+#EXTINF:-1,france 4
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/290.ts
+#EXTINF:-1,france 5
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/292.ts
+#EXTINF:-1,france O
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/291.ts
+#EXTINF:-1,arte
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/286.ts
+#EXTINF:-1,M6
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/284.ts
+#EXTINF:-1,6ter
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/293.ts
+#EXTINF:-1,cstar
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/300.ts
+#EXTINF:-1,cherie25
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/296.ts
+#EXTINF:-1,c8
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/299.ts
+#EXTINF:-1,W9
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/283.ts
+#EXTINF:-1,TMC
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/287.ts
+#EXTINF:-1,tfx
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/297.ts
+#EXTINF:-1,rmc decouverte
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/295.ts
+#EXTINF:-1,nrj12
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/294.ts
+#EXTINF:-1,L'EQUIPE
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/301.ts
+#EXTINF:-1,gulli
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/285.ts
+#EXTINF:-1,Al-Fajer TV 1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/43.ts
+#EXTINF:-1,Al-Fajer TV 2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/44.ts
+#EXTINF:-1,Al-Fajer TV 3
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/45.ts
+#EXTINF:-1,Al-Fajer TV 4
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/46.ts
+#EXTINF:-1,Al-Fajer TV 5
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/47.ts
+#EXTINF:-1,Watar hd
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/67.ts
+#EXTINF:-1,RayaHD3
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/68.ts
+#EXTINF:-1,pnn tv tv sd
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/60.ts
+#EXTINF:-1,PBCLive
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/64.ts
+#EXTINF:-1,palestiniantv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/74.ts
+#EXTINF:-1,najah
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/62.ts
+#EXTINF:-1,Musawa
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/71.ts
+#EXTINF:-1,MawwalHD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/75.ts
+#EXTINF:-1,MaanHD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/72.ts
+#EXTINF:-1,kolnas tv hd
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/58.ts
+#EXTINF:-1,ftv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/70.ts
+#EXTINF:-1,bethlam tv hd
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/59.ts
+#EXTINF:-1,Awdeh TV
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/66.ts
+#EXTINF:-1,alsalam tv hd
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/50.ts
+#EXTINF:-1,Almahed
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/76.ts
+#EXTINF:-1,AlfajertvUN
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/73.ts
+#EXTINF:-1,Al Aqsa
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/63.ts
+#EXTINF:-1,ajeyel tv hd
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/57.ts
+#EXTINF:-1,watantv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/88.ts
+#EXTINF:-1,Russia Today
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/84.ts
+#EXTINF:-1,ps
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/85.ts
+#EXTINF:-1,Mekameleen (Egypte)
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/80.ts
+#EXTINF:-1,hadath
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/89.ts
+#EXTINF:-1,BBC Arabic News
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/83.ts
+#EXTINF:-1,aqsatv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/86.ts
+#EXTINF:-1,Alsharq
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/87.ts
+#EXTINF:-1,Aljazeera Mubasher
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/91.ts
+#EXTINF:-1,AlJazeera 1080 Full HD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/78.ts
+#EXTINF:-1,ALJAZEERA (ARABIA)
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/77.ts
+#EXTINF:-1,alhiwar
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/79.ts
+#EXTINF:-1,alalam
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/92.ts
+#EXTINF:-1,Al Manar
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/82.ts
+#EXTINF:-1,Al Arabiya
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/90.ts
+#EXTINF:-1,TOYOR-BABY
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/102.ts
+#EXTINF:-1,spacetoon
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/103.ts
+#EXTINF:-1,tyor
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/101.ts
+#EXTINF:-1,Majid Kids
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/106.ts
+#EXTINF:-1,karameesh
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/105.ts
+#EXTINF:-1,jeem tv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/108.ts
+#EXTINF:-1,CN Arabic
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/104.ts
+#EXTINF:-1,baraeim tv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/107.ts
+#EXTINF:-1,Levante Tv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/148.ts
+#EXTINF:-1,Alkass-HD1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/212.ts
+#EXTINF:-1,Alkass-HD2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/213.ts
+#EXTINF:-1,Alkass-HD3
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/214.ts
+#EXTINF:-1,KTV Sport
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/134.ts
+#EXTINF:-1,Arena Sport 1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/302.ts
+#EXTINF:-1,Arena Sport 2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/303.ts
+#EXTINF:-1,Arena Sport 3
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/304.ts
+#EXTINF:-1,Arena Sport 4
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/305.ts
+#EXTINF:-1,ETB
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/151.ts
+#EXTINF:-1,TRT Spor
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/144.ts
+#EXTINF:-1,sevillafc
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/130.ts
+#EXTINF:-1,SEVILLA FC
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/154.ts
+#EXTINF:-1,ON Sport
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/131.ts
+#EXTINF:-1,DUBAI SPORTS
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/127.ts
+#EXTINF:-1,All Sports
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/152.ts
+#EXTINF:-1,Al Kass Sports 3
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/136.ts
+#EXTINF:-1,Mekka tv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/159.ts
+#EXTINF:-1,Alerth
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/158.ts
+#EXTINF:-1,SUNNA tv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/155.ts
+#EXTINF:-1,qureen
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/156.ts
+#EXTINF:-1,Zee Alwan
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/171.ts
+#EXTINF:-1,SharjahTV kalbla
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/188.ts
+#EXTINF:-1,SharjahTV
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/187.ts
+#EXTINF:-1,SAUDI 1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/198.ts
+#EXTINF:-1,SADA ELBALAD
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/178.ts
+#EXTINF:-1,qatartv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/197.ts
+#EXTINF:-1,OMEN TV sport
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/202.ts
+#EXTINF:-1,OMEN TV live
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/200.ts
+#EXTINF:-1,OMEN TV Culture
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/201.ts
+#EXTINF:-1,OMEN TV 1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/199.ts
+#EXTINF:-1,nile drama
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/176.ts
+#EXTINF:-1,nehlsma tv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/100.ts
+#EXTINF:-1,nahar TV
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/177.ts
+#EXTINF:-1,nahar drama
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/175.ts
+#EXTINF:-1,Medi1tvmaghreb
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/99.ts
+#EXTINF:-1,Libyen
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/164.ts
+#EXTINF:-1,KTV Plus
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/195.ts
+#EXTINF:-1,KTV Ethraa
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/193.ts
+#EXTINF:-1,KTV Al Majlis
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/196.ts
+#EXTINF:-1,KTV Al Arabi
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/194.ts
+#EXTINF:-1,KTV 2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/192.ts
+#EXTINF:-1,KTV 1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/191.ts
+#EXTINF:-1,Jordantv day
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/161.ts
+#EXTINF:-1,Imagine Movies
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/174.ts
+#EXTINF:-1,ifilim
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/169.ts
+#EXTINF:-1,Hura Iraq
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/162.ts
+#EXTINF:-1,Hura
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/163.ts
+#EXTINF:-1,FUNON tv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/205.ts
+#EXTINF:-1,france24
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/109.ts
+#EXTINF:-1,dubaizaman
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/182.ts
+#EXTINF:-1,DUBAI TV
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/180.ts
+#EXTINF:-1,DUBAI one
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/179.ts
+#EXTINF:-1,Dubai Noor Dubai TV
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/181.ts
+#EXTINF:-1,Betty tv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/170.ts
+#EXTINF:-1,B4u Plus
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/173.ts
+#EXTINF:-1,B4u Aflam
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/172.ts
+#EXTINF:-1,Aldafra
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/189.ts
+#EXTINF:-1,alaraby tv
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/166.ts
+#EXTINF:-1,Alaan TV
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/165.ts
+#EXTINF:-1,Al Rai
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/190.ts
+#EXTINF:-1,Al Aan TV
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/168.ts
+#EXTINF:-1,2m
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/94.ts
