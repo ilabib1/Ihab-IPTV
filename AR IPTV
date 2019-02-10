@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,USA: HGTV
+http://tv24serwis2.eu:8000/45879541/stalker/521
+#EXTINF:-1,USA: FOX SPORTS 1
+http://tv24serwis2.eu:8000/45879541/stalker/526
+#EXTINF:-1,USA: FOOD TV HD
+http://tv24serwis2.eu:8000/45879541/stalker/522
+#EXTINF:-1,USA: DISCOVERY SHOWCASE HD
+http://tv24serwis2.eu:8000/45879541/stalker/527
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://tv24serwis2.eu:8000/45879541/stalker/528
+#EXTINF:-1,USA: DISCOVERY ID XTRA HD
+http://tv24serwis2.eu:8000/45879541/stalker/529
+#EXTINF:-1,USA: CBS NEWS HD
+http://tv24serwis2.eu:8000/45879541/stalker/525
+#EXTINF:-1,USA: CBS HD
+http://tv24serwis2.eu:8000/45879541/stalker/524
+#EXTINF:-1,USA: CBC HD
+http://tv24serwis2.eu:8000/45879541/stalker/523
 #EXTINF:-1,Ar- Quest HD
 http://smart-hdip.com:6204/faiez/123/3236
 #EXTINF:-1,Ar- AD Drama HD
